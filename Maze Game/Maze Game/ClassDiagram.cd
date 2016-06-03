@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Project_2015.Bag" Collapsed="true">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAgAAAAAAAAAACABAAAAIAAAAA=</HashCode>
+      <FileName>Bag.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Project_2015.TakeCommand" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAIAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TakeCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_2015.Command" Collapsed="true">
+    <Position X="15" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Command.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_2015.CommandProcessor" Collapsed="true">
+    <Position X="20.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAACAAAAAAIAAEAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>CommandProcessor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_2015.GameObj" Collapsed="true">
+    <Position X="3.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAACEAAAAAAAAAAAAAAAAAAAAAJAAAAA=</HashCode>
+      <FileName>GameObj.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_2015.IdObj" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAICAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>IdObj.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_2015.Item" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAUAAAABAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_2015.Location" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQACACABAAAAAgAAAAAAAAAACABAAAAIAAAAA=</HashCode>
+      <FileName>Location.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Project_2015.LookCommand" Collapsed="true">
+    <Position X="11.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAIAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LookCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_2015.MoveCommand" Collapsed="true">
+    <Position X="16.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MoveCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_2015.Path" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAEAAAAAAAAAACCAgAAAAAAAAwCAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Path.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_2015.Player" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAACAAAAgAAIAAAAAAACABCAAAIAgAAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Project_2015.PutCommand" Collapsed="true">
+    <Position X="14" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAEAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PutCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_2015.QuitCommand" Collapsed="true">
+    <Position X="18.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>QuitCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

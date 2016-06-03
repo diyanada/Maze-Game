@@ -1,0 +1,6 @@
+C:\GitHub\Maze-Game\Maze Game\Maze Game\bin\Debug\Maze Game.exe.config
+C:\GitHub\Maze-Game\Maze Game\Maze Game\obj\Debug\Maze Game.csprojResolveAssemblyReference.cache
+C:\GitHub\Maze-Game\Maze Game\Maze Game\bin\Debug\Maze Game.exe
+C:\GitHub\Maze-Game\Maze Game\Maze Game\bin\Debug\Maze Game.pdb
+C:\GitHub\Maze-Game\Maze Game\Maze Game\obj\Debug\Maze Game.exe
+C:\GitHub\Maze-Game\Maze Game\Maze Game\obj\Debug\Maze Game.pdb
